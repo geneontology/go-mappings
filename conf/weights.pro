@@ -6,6 +6,11 @@ weight(-3, [predicate_id='owl:equivalentClass', any_match_field='oio:hasNarrowSy
 weight(-3, [predicate_id='owl:equivalentClass', any_match_field='oio:hasBroadSynonym']).
 weight(-1, [predicate_id='owl:equivalentClass', any_match_field='oio:hasRelatedSynonym']).
 
+weight(-2, [object_category='cellular_component']).
+weight(-2, [object_category='molecular_function']).
+weight(-2, [subject_category='bl:DiseasePathway']).
+weight(-2, [subject_category='bl:DrugPathway']).
+
 weight(-0.5, [predicate_id='owl:equivalentClass', match_category='one_to_many']).
 weight(-0.5, [predicate_id='owl:equivalentClass', match_category='many_to_one']).
 weight(-1, [predicate_id='owl:equivalentClass', match_category='many_to_many']).
