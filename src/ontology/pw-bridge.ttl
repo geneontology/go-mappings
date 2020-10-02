@@ -1,0 +1,15 @@
+@prefix PW: <http://purl.obolibrary.org/obo/PW_> .
+@prefix biolink: <https://w3id.org/biolink/vocab/> .
+@prefix sh:	<http://www.w3.org/ns/shacl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+[
+  sh:declare
+   [ sh:prefix "bl" ; sh:namespace "https://w3id.org/biolink/vocab/"]
+] .
+
+PW:0000002 biolink:category biolink:MetabolicPathway . ## classic metabolic pathway
+PW:0000003 biolink:category biolink:SignalingPathway . ## signaling pathway
+PW:0000004 biolink:category biolink:RegulatoryPathway . ## regulatory pathway
+PW:0000013 biolink:category biolink:DiseasePathway . ## disease pathway
+PW:0000754 biolink:category biolink:DrugPathway . ## drug pathway

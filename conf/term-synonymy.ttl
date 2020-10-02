@@ -1,0 +1,24 @@
+@prefix inca: <https://w3id.org/inca/> .
+
+## synonymy rules
+## these are RDF objects with one or more patterns and replacements
+
+[ inca:pattern "metabolic process" ;
+  inca:replacement "metabolism"
+] .
+    
+[ inca:pattern "biosynthetic process" ;
+  inca:pattern "biosynthetic pathway" ;
+  inca:replacement "biosynthesis"
+] .
+
+[ inca:pattern " synthesis" ;
+  inca:replacement " biosynthesis"
+] .
+
+[ inca:pattern "catabolic process" ;
+  inca:pattern "degradation" ;
+  inca:replacement "catabolism"
+] .
+    
+    
