@@ -9,6 +9,8 @@ See: http://obofoundry.org/obo/pw
  * GO-PW: [Automatic mappings](target/obomatch-go-pw.sssom.tsv) we use SSSOM format
  * GO-PW: [Unmatched](target/nomatches-go-pw.tsv) (excluding drug/disease pathways)
 
+Mappings are in [SSSOM](https://github.com/OBOFoundry/SSSOM) format
+
 ## Method
 
 We use rdf_matcher
