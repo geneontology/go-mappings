@@ -1,0 +1,943 @@
+PW:0000001	pathway	pathway
+PW:0000002	classic metabolic pathway	bl:MetabolicPathway
+PW:0000004	regulatory pathway	bl:RegulatoryPathway
+PW:0000006	Ras superfamily mediated signaling pathway	bl:SignalingPathway
+PW:0000025	glycolysis/gluconeogenesis pathway	bl:MetabolicPathway
+PW:0000027	glutamic acid/glutamate metabolic pathway	bl:MetabolicPathway
+PW:0000028	alanine, aspartate and glutamate metabolic pathway	bl:MetabolicPathway
+PW:0000033	energy metabolic pathway	bl:MetabolicPathway
+PW:0000036	nitrogen metabolic pathway	bl:MetabolicPathway
+PW:0000041	fructose and mannose metabolic pathway	bl:MetabolicPathway
+PW:0000047	glycine, serine and threonine metabolic pathway	bl:MetabolicPathway
+PW:0000048	methionine cycle/metabolic pathway	bl:MetabolicPathway
+PW:0000050	arginine and proline metabolic pathway	bl:MetabolicPathway
+PW:0000055	nucleotide sugar metabolic pathway	bl:MetabolicPathway
+PW:0000059	signaling pathway pertinent to the brain and nervous system	bl:SignalingPathway
+PW:0000062	ascorbate and aldarate metabolic pathway	bl:MetabolicPathway
+PW:0000063	glyoxylate and dicarboxylate metabolic pathway	bl:MetabolicPathway
+PW:0000066	C5-branched dibasic acid metabolic pathway	bl:MetabolicPathway
+PW:0000067	reductive carboxylate cycle - CO2 fixation pathway	bl:MetabolicPathway
+PW:0000069	ketone bodies metabolic pathway	bl:MetabolicPathway
+PW:0000071	valine, leucine and isoleucine degradation pathway	bl:MetabolicPathway
+PW:0000072	valine, leucine and isoleucine biosynthetic pathway	bl:MetabolicPathway
+PW:0000075	phenylalanine, tyrosine and tryptophan biosynthetic pathway	bl:MetabolicPathway
+PW:0000081	D-glutamine and D-glutamate metabolic pathway	bl:MetabolicPathway
+PW:0000082	D-arginine and D-ornithine metabolic pathway	bl:MetabolicPathway
+PW:0000085	pathway pertinent to DNA replication and repair, cell cycle, maintenance of genomic integrity, RNA and protein biosynthesis	bl:RegulatoryPathway
+PW:0000086	cell cycle pathway, mitotic	bl:RegulatoryPathway
+PW:0000088	G1/S transition pathway	pathway
+PW:0000091	G2/M transition pathway	pathway
+PW:0000093	M/G1 transition pathway	pathway
+PW:0000102	the extracellular signal-regulated Raf/Mek/Erk signaling pathway	bl:SignalingPathway
+PW:0000105	Rho/Rac/Cdc42 mediated signaling pathway	bl:SignalingPathway
+PW:0000107	xenobiotics biodegradation pathway	bl:MetabolicPathway
+PW:0000110	toluene and xylene degradation pathway	bl:MetabolicPathway
+PW:0000111	gamma-hexachlorocyclohexane degradation pathway	bl:MetabolicPathway
+PW:0000112	3-chloroacrylic acid degradation pathway	bl:MetabolicPathway
+PW:0000114	benzoate degradation pathway via hydroxylation	bl:MetabolicPathway
+PW:0000115	benzoate degradation pathway via CoA ligation	bl:MetabolicPathway
+PW:0000118	ethylbenzene degradation pathway	bl:MetabolicPathway
+PW:0000123	synaptic vesicle endocytosis and recycling pathway	bl:RegulatoryPathway
+PW:0000125	G protein mediated signaling pathway	bl:SignalingPathway
+PW:0000126	RNA polymerase I transcription pathway	bl:RegulatoryPathway
+PW:0000127	RNA polymerase II transcription pathway	bl:RegulatoryPathway
+PW:0000128	RNA polymerase III transcription pathway	bl:RegulatoryPathway
+PW:0000132	metabolic pathway of other amino acids	bl:MetabolicPathway
+PW:0000133	selenoamino acid metabolic pathway	bl:MetabolicPathway
+PW:0000135	metabolic pathway of cofactors, vitamins, nutrients	bl:MetabolicPathway
+PW:0000143	insulin signaling pathway	bl:SignalingPathway
+PW:0000144	ubiquitin/proteasome degradation pathway	bl:RegulatoryPathway
+PW:0000147	metabolic pathway of secondary metabolites	bl:MetabolicPathway
+PW:0000148	alkaloid biosynthetic pathway I	bl:MetabolicPathway
+PW:0000149	alkaloid biosynthetic pathway II	bl:MetabolicPathway
+PW:0000150	stilbene, coumarine and lignin biosynthetic pathway	bl:MetabolicPathway
+PW:0000151	starch and sucrose metabolic pathway	bl:MetabolicPathway
+PW:0000158	Ras family mediated signaling pathway	bl:SignalingPathway
+PW:0000159	Rab family mediated signaling pathway	bl:SignalingPathway
+PW:0000160	Ran family mediated signaling pathway	bl:SignalingPathway
+PW:0000165	taurine and hypotaurine metabolic pathway	bl:MetabolicPathway
+PW:0000168	growth factor signaling pathway	bl:SignalingPathway
+PW:0000170	epidermal growth factor/neuregulin signaling pathway	bl:SignalingPathway
+PW:0000175	familial combined hyperlipidemia pathway	pathway
+PW:0000180	mTOR signaling pathway	bl:RegulatoryPathway
+PW:0000181	pathway pertinent to protein folding, sorting, modification, translocation and degradation	bl:RegulatoryPathway
+PW:0000182	lysosomes based pathway of protein degradation	bl:RegulatoryPathway
+PW:0000183	the proteolytic pathway involving calcium-dependent proteases	bl:RegulatoryPathway
+PW:0000185	limonene and pinene degradation pathway	bl:MetabolicPathway
+PW:0000188	pentose and glucuronate interconversion pathway	bl:MetabolicPathway
+PW:0000189	folate mediated one-carbon metabolic pathway	pathway
+PW:0000190	porphyrin and chlorophyll metabolic pathway	bl:MetabolicPathway
+PW:0000192	N-linked glycan biosynthetic pathway	bl:MetabolicPathway
+PW:0000194	O-linked glycan biosynthetic pathway	bl:MetabolicPathway
+PW:0000199	the Wnt/calcium signaling pathway	bl:SignalingPathway
+PW:0000200	Wnt signaling, the planar cell polarity pathway	bl:SignalingPathway
+PW:0000201	Wnt signaling, canonical pathway	bl:SignalingPathway
+PW:0000203	non-homologous end joining pathway of double-strand break repair	bl:RegulatoryPathway
+PW:0000206	transforming growth factor-beta signaling pathway	bl:SignalingPathway
+PW:0000207	central obesity with hypertension pathway	pathway
+PW:0000209	Jak-Stat signaling pathway	bl:SignalingPathway
+PW:0000211	biogenic amines and polyamines metabolic pathway	bl:MetabolicPathway
+PW:0000213	RNA polymerase IV transcription pathway	bl:RegulatoryPathway
+PW:0000215	RNA polymerase V transcription pathway	bl:RegulatoryPathway
+PW:0000224	N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminic acid dissimilation pathway	bl:MetabolicPathway
+PW:0000227	G protein mediated signaling pathway via Galphas family	bl:SignalingPathway
+PW:0000228	G protein mediated signaling pathway via Galphai family	bl:SignalingPathway
+PW:0000229	G protein mediated signaling pathway via Galphaq family	bl:SignalingPathway
+PW:0000230	G protein mediated signaling pathway via Galpha12/Galpha13 family	bl:SignalingPathway
+PW:0000232	phosphatidylinositol 3-kinase-Akt signaling pathway	bl:SignalingPathway
+PW:0000233	tumor necrosis factor mediated signaling pathway	bl:SignalingPathway
+PW:0000236	tumor necrosis factor superfamily mediated signaling pathway	bl:SignalingPathway
+PW:0000237	stress response pathway	bl:RegulatoryPathway
+PW:0000238	insulin-like growth factor signaling pathway	bl:SignalingPathway
+PW:0000244	angiotensin II signaling pathway	bl:SignalingPathway
+PW:0000245	angiotensin signaling pathway	bl:SignalingPathway
+PW:0000246	Rheb mediated signaling pathway	bl:SignalingPathway
+PW:0000247	transforming growth factor-beta Smad independent signaling pathway	bl:SignalingPathway
+PW:0000253	indole and ipecac alkaloid biosynthetic pathway	bl:MetabolicPathway
+PW:0000254	penicillins and cephalosporins biosynthetic pathway	bl:MetabolicPathway
+PW:0000255	beta-Lactam resistance pathway	bl:MetabolicPathway
+PW:0000256	polyketides biosynthetic pathway	bl:MetabolicPathway
+PW:0000257	polyketide sugar biosynthetic pathway	bl:MetabolicPathway
+PW:0000261	neuronal secretory pathway	bl:RegulatoryPathway
+PW:0000262	altered metabolic pathway	bl:MetabolicPathway
+PW:0000263	altered regulatory pathway	bl:RegulatoryPathway
+PW:0000264	altered signaling pathway	bl:SignalingPathway
+PW:0000270	presynaptic differentiation pathway	bl:RegulatoryPathway
+PW:0000271	postsynaptic differentiation pathway	bl:RegulatoryPathway
+PW:0000272	neuron-to-neuron signaling pathways	bl:SignalingPathway
+PW:0000273	neuron-to-neuron signaling pathway via the electrical synapse	bl:SignalingPathway
+PW:0000276	non-apoptotic cell death pathway	bl:RegulatoryPathway
+PW:0000280	protein secretory pathway	bl:RegulatoryPathway
+PW:0000283	altered glycan metabolic pathway	bl:MetabolicPathway
+PW:0000284	altered glycosaminoglycan pathway	bl:MetabolicPathway
+PW:0000285	altered heparan sulfate pathway	bl:MetabolicPathway
+PW:0000286	integrin mediated signaling pathway	bl:SignalingPathway
+PW:0000287	altered apoptotic cell death pathway	bl:RegulatoryPathway
+PW:0000288	altered intrinsic apoptotic pathway	bl:RegulatoryPathway
+PW:0000289	altered cell death pathway	bl:RegulatoryPathway
+PW:0000290	altered pathway pertinent to DNA replication and repair, cell cycle, maintenance of genomic integrity, RNA and protein biosynthesis	bl:RegulatoryPathway
+PW:0000292	altered DNA repair pathway	bl:RegulatoryPathway
+PW:0000293	altered pathway pertinent to protein folding, sorting, modification, translocation and degradation	bl:RegulatoryPathway
+PW:0000294	altered ubiquitin/proteasome degradation pathway	bl:RegulatoryPathway
+PW:0000295	altered integrin mediated signaling pathway	bl:SignalingPathway
+PW:0000297	platelet-derived growth factor signaling pathway	bl:SignalingPathway
+PW:0000298	altered growth factor signaling pathway	bl:SignalingPathway
+PW:0000303	p53-dependent G1/S DNA damage checkpoint pathway	pathway
+PW:0000304	p53-independent G1/S DNA damage checkpoint pathway	pathway
+PW:0000305	altered carbohydrate metabolic pathway	bl:MetabolicPathway
+PW:0000306	altered galactose metabolic pathway	bl:MetabolicPathway
+PW:0000307	coagulative necrosis pathway	bl:RegulatoryPathway
+PW:0000308	liquefactive necrosis pathway	bl:RegulatoryPathway
+PW:0000309	caseous necrosis pathway	bl:RegulatoryPathway
+PW:0000310	fatty necrosis pathway	bl:RegulatoryPathway
+PW:0000311	fibrinoid necrosis pathway	bl:RegulatoryPathway
+PW:0000314	calcium/calmodulin dependent signaling pathway	bl:SignalingPathway
+PW:0000317	nuclear factor of activated T-cells signaling pathway	bl:SignalingPathway
+PW:0000318	altered calcium/calmodulin dependent signaling pathway	bl:SignalingPathway
+PW:0000319	altered calcineurin signaling pathway	bl:SignalingPathway
+PW:0000321	altered Hedgehog signaling pathway	bl:SignalingPathway
+PW:0000322	ephrin - ephrin receptor bidirectional signaling axis	bl:SignalingPathway
+PW:0000323	altered ephrin - ephrin receptor bidirectional signaling pathway	bl:SignalingPathway
+PW:0000324	altered Notch signaling pathway	bl:SignalingPathway
+PW:0000326	altered protein degradation pathway	bl:RegulatoryPathway
+PW:0000327	protein disulphide bond formation pathway	bl:RegulatoryPathway
+PW:0000328	fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0000329	transforming growth factor-beta superfamily mediated signaling pathway	bl:SignalingPathway
+PW:0000331	activin signaling pathway	bl:SignalingPathway
+PW:0000333	cadherin mediated signaling pathway	bl:SignalingPathway
+PW:0000334	connexin signaling pathway	bl:SignalingPathway
+PW:0000335	altered transforming growth factor-beta superfamily mediated signaling pathway	bl:SignalingPathway
+PW:0000336	altered cell-cell signaling pathway	bl:SignalingPathway
+PW:0000337	selectin signaling pathway	bl:SignalingPathway
+PW:0000338	altered cadherins mediated signaling pathway	bl:SignalingPathway
+PW:0000339	altered connexins mediated signaling pathway	bl:SignalingPathway
+PW:0000340	altered Notch signaling pathway involving the main players	bl:SignalingPathway
+PW:0000341	altered Notch signaling pathway involving the macromolecules modifying the main players	bl:SignalingPathway
+PW:0000342	altered Notch signaling pathway involving target gene(s)	bl:SignalingPathway
+PW:0000343	altered Notch signaling pathway involving promoters	bl:SignalingPathway
+PW:0000350	altered vascular endothelial growth factor signaling pathway	bl:SignalingPathway
+PW:0000351	altered vascular endothelial growth factor signaling pathway involving the main players	bl:SignalingPathway
+PW:0000352	altered vascular endothelial growth factor signaling pathway involving the macromolecules modifying the main players	bl:SignalingPathway
+PW:0000353	altered vascular endothelial growth factor signaling pathway involving proteins affecting its expression	bl:SignalingPathway
+PW:0000358	altered homeostasis pathway	bl:RegulatoryPathway
+PW:0000359	altered energy homeostasis pathway	bl:RegulatoryPathway
+PW:0000360	hypoxia inducible factor pathway	bl:SignalingPathway
+PW:0000361	altered oxygen homeostasis pathway	bl:RegulatoryPathway
+PW:0000363	leptin system pathway	bl:SignalingPathway
+PW:0000364	altered leptin system pathway	bl:RegulatoryPathway
+PW:0000365	melanocortin system pathway	bl:SignalingPathway
+PW:0000366	altered melanocortin system pathway	bl:RegulatoryPathway
+PW:0000367	altered Jak-Stat signaling pathway	bl:SignalingPathway
+PW:0000368	Non-Stat, Jak dependent pathway	bl:SignalingPathway
+PW:0000369	nuclear factor, erythroid 2 like 2 signaling pathway	bl:RegulatoryPathway
+PW:0000370	aryl hydrocarbon receptor signaling pathway	bl:RegulatoryPathway
+PW:0000371	calcium homeostasis pathway	bl:RegulatoryPathway
+PW:0000372	altered calcium homeostasis pathway	bl:RegulatoryPathway
+PW:0000373	glutathione conjugation pathway	bl:RegulatoryPathway
+PW:0000374	alternate pathways of glutathione conjugates processing	bl:RegulatoryPathway
+PW:0000375	phase I biotransformation pathway via cytochrome P450	bl:RegulatoryPathway
+PW:0000376	cytochrome P450-independent phase I biotransformation pathway	bl:RegulatoryPathway
+PW:0000377	glutathione conjugates processing - the mercapturic acid pathway	bl:RegulatoryPathway
+PW:0000378	oxidative stress response pathway	bl:RegulatoryPathway
+PW:0000379	endoplasmic reticulum stress  - the unfolded protein response pathway	bl:RegulatoryPathway
+PW:0000380	transport pathway for the elimination of drugs, endogenous or exogenous compounds and metabolites	bl:RegulatoryPathway
+PW:0000381	multidrug resistance-associated protein mediated transport pathway	bl:RegulatoryPathway
+PW:0000382	multidrug resistance protein mediated transport pathway	bl:RegulatoryPathway
+PW:0000383	multispecific organic anion transporter mediated transport pathway	bl:RegulatoryPathway
+PW:0000384	G2/M DNA damage checkpoint pathway	pathway
+PW:0000385	G2/M DNA replication checkpoint pathway	pathway
+PW:0000386	Rap1 mediated signaling pathway	bl:SignalingPathway
+PW:0000387	Arf family mediated signaling pathway	bl:SignalingPathway
+PW:0000388	Reelin signaling pathway	bl:SignalingPathway
+PW:0000389	altered signaling pathway pertinent to the brain and nervous system	bl:SignalingPathway
+PW:0000390	altered Reelin signaling pathway	bl:SignalingPathway
+PW:0000391	altered Ras superfamily mediated signaling pathway	bl:SignalingPathway
+PW:0000392	altered Ras mediated signaling pathway	bl:SignalingPathway
+PW:0000393	altered mTOR signaling pathway	bl:RegulatoryPathway
+PW:0000394	dopamine signaling pathway	bl:SignalingPathway
+PW:0000395	altered dopamine signaling pathway	bl:SignalingPathway
+PW:0000399	remethylation pathway of homocysteine metabolism - cobalamin dependent	pathway
+PW:0000400	transsulfuration pathway of homocysteine metabolism	pathway
+PW:0000401	remethylation pathway of homocysteine metabolism - cobalamin independent, betaine dependent	pathway
+PW:0000402	altered metabolic pathway of other amino acids	bl:MetabolicPathway
+PW:0000403	altered amino acid metabolic pathway	bl:MetabolicPathway
+PW:0000405	synaptic vesicle exocytosis - neurotransmitter release pathway	bl:RegulatoryPathway
+PW:0000406	metabolic pathway pertinent to the brain	bl:MetabolicPathway
+PW:0000414	protein degradation pathway via the 'core' 20S proteasome pathway	bl:RegulatoryPathway
+PW:0000415	proteasome degradation pathway involving cullin-dependent ubiquitin ligases	bl:RegulatoryPathway
+PW:0000417	ubiquitin, ubiquitin-like/proteasome degradation pathway	bl:RegulatoryPathway
+PW:0000418	altered ubiquitin, ubiquitin-like degradation pathway	bl:RegulatoryPathway
+PW:0000420	altered c-Jun N-terminal kinase MAPK signaling pathway	bl:SignalingPathway
+PW:0000421	altered mitogen activated protein kinase pathway	bl:SignalingPathway
+PW:0000422	altered stress-regulated MAPK signaling pathway	bl:SignalingPathway
+PW:0000424	altered surfactant homeostasis pathway	bl:RegulatoryPathway
+PW:0000426	protein sorting pathway	bl:RegulatoryPathway
+PW:0000428	altered molybdenum cofactor biosynthetic pathway	bl:MetabolicPathway
+PW:0000429	altered metabolic pathway of cofactors, vitamins, nutrients	bl:MetabolicPathway
+PW:0000433	protein modification pathway via conjugation with ubiquitin and ubiqutin-like molecules	bl:RegulatoryPathway
+PW:0000435	neddylation pathway	bl:RegulatoryPathway
+PW:0000436	amine neurotransmitter metabolic pathway	bl:MetabolicPathway
+PW:0000437	amino acid neurotransmitter metabolic pathway	bl:MetabolicPathway
+PW:0000439	aspartic acid/aspartate metabolic pathway	bl:MetabolicPathway
+PW:0000444	indoleamine and related compounds metabolic pathway	bl:MetabolicPathway
+PW:0000445	excitatory neurotransmitter metabolic pathway	bl:MetabolicPathway
+PW:0000446	inhibitory neurotransmitter metabolic pathway	bl:MetabolicPathway
+PW:0000447	peptide neurotransmitter metabolic pathway	bl:MetabolicPathway
+PW:0000448	neuropeptide Y metabolic pathway	bl:MetabolicPathway
+PW:0000449	enkephalin metabolic pathway	bl:MetabolicPathway
+PW:0000450	neurotensin metabolic pathway	bl:MetabolicPathway
+PW:0000451	beta-endorphin metabolic pathway	bl:MetabolicPathway
+PW:0000452	substance P metabolic pathway	bl:MetabolicPathway
+PW:0000455	excitatory synaptic transmission pathway	bl:SignalingPathway
+PW:0000456	Inhibitory synaptic transmission pathway	bl:SignalingPathway
+PW:0000457	angiotensin III signaling pathway	bl:SignalingPathway
+PW:0000458	angiotensin IV signaling pathway	bl:SignalingPathway
+PW:0000459	apelin signaling pathway	bl:SignalingPathway
+PW:0000461	cyclooxygenase mediated pathway of arachidonic acid metabolism	bl:MetabolicPathway
+PW:0000462	lipoxygenase mediated pathway of arachidonic acid metabolism	bl:MetabolicPathway
+PW:0000463	cytochrome P450 monooxygenase mediated pathway of arachidonic acid metabolism	bl:MetabolicPathway
+PW:0000465	hormone signaling pathway	bl:SignalingPathway
+PW:0000466	amine and amino acid-derived hormone signaling pathway	bl:SignalingPathway
+PW:0000467	peptide and protein hormone signaling pathway	bl:SignalingPathway
+PW:0000468	steroid hormone signaling pathway	bl:SignalingPathway
+PW:0000469	lipid hormone signaling pathway	bl:SignalingPathway
+PW:0000470	natriuretic peptide signaling pathway	bl:SignalingPathway
+PW:0000471	atrial natriuretic peptide signaling pathway	bl:SignalingPathway
+PW:0000472	brain natriuretic peptide signaling pathway	bl:SignalingPathway
+PW:0000473	C-type natriuretic peptide signaling pathway	bl:SignalingPathway
+PW:0000474	coagulation cascade pathway	pathway
+PW:0000476	cardiovascular system homeostasis pathway	bl:RegulatoryPathway
+PW:0000477	natural anticoagulant pathway	pathway
+PW:0000478	tissue factor pathway inhibitor	pathway
+PW:0000479	heparin-antithrombin pathway	pathway
+PW:0000480	protein C anticoagulant pathway	pathway
+PW:0000483	altered lipid metabolic pathway	bl:MetabolicPathway
+PW:0000484	altered lipoprotein metabolic pathway	bl:MetabolicPathway
+PW:0000486	class I major histocompatibility complex pathway	pathway
+PW:0000487	class II major histocompatibility complex pathway	pathway
+PW:0000489	angiopoietin signaling pathway	bl:SignalingPathway
+PW:0000490	transforming growth factor-beta Smad dependent signaling pathway	bl:SignalingPathway
+PW:0000491	vasopressin signaling pathway	bl:SignalingPathway
+PW:0000492	renin-angiotensin cascade pathway	bl:MetabolicPathway
+PW:0000493	corticotropin-releasing hormone signaling pathway	bl:SignalingPathway
+PW:0000494	oxytocin signaling pathway	bl:SignalingPathway
+PW:0000495	Gas6 - Axl signaling axis	bl:SignalingPathway
+PW:0000497	endogenous pathway	pathway
+PW:0000499	nuclear factor kappa B signaling pathway	bl:SignalingPathway
+PW:0000500	tyrosine-based hormone signaling pathway	bl:SignalingPathway
+PW:0000501	thyroid hormone signaling pathway	bl:SignalingPathway
+PW:0000502	complement system pathway	pathway
+PW:0000503	classical complement pathway	pathway
+PW:0000504	lectin complement pathway	pathway
+PW:0000505	alternative complement pathway	pathway
+PW:0000507	estrogen signaling pathway	bl:SignalingPathway
+PW:0000509	altered hormone signaling pathway	bl:SignalingPathway
+PW:0000510	altered insulin-like growth factor signaling pathway	bl:SignalingPathway
+PW:0000511	altered peptide and protein hormone signaling pathway	bl:SignalingPathway
+PW:0000512	Interleukin mediated signaling pathway	bl:SignalingPathway
+PW:0000513	interleukin-10 family mediated signaling pathway	bl:SignalingPathway
+PW:0000514	interleukin-6 family mediated signaling pathway	bl:SignalingPathway
+PW:0000515	Interleukin-10 signaling pathway	bl:SignalingPathway
+PW:0000516	interleukin-6 signaling pathway	bl:SignalingPathway
+PW:0000525	Ras mediated signaling pathway	bl:SignalingPathway
+PW:0000526	kallikrein-kinin cascade pathway	bl:SignalingPathway
+PW:0000527	angiotensin II signaling pathway via AT1 receptor	bl:SignalingPathway
+PW:0000528	angiotensin II signaling pathway via AT2 receptor	bl:SignalingPathway
+PW:0000529	angiotensin (1-7) signaling pathway	bl:SignalingPathway
+PW:0000530	angiotensin III signaling pathway via AT1 receptor	bl:SignalingPathway
+PW:0000531	angiotensin III signaling pathway via AT2 receptor	bl:SignalingPathway
+PW:0000536	constitutive protein secretory pathway	pathway
+PW:0000537	regulated protein secretory pathway	pathway
+PW:0000538	nuclear protein transport pathway	bl:RegulatoryPathway
+PW:0000539	ghrelin system pathway	bl:SignalingPathway
+PW:0000541	signaling pathway involving second messengers	bl:SignalingPathway
+PW:0000542	adenosine monophosphate-activated protein kinase (AMPK) signaling pathway	bl:SignalingPathway
+PW:0000543	protein kinase A (PKA) signaling pathway	bl:SignalingPathway
+PW:0000544	altered reverse cholesterol transport pathway	bl:MetabolicPathway
+PW:0000545	altered transport pathway	bl:RegulatoryPathway
+PW:0000547	exosome mediated RNA decay pathway	bl:RegulatoryPathway
+PW:0000550	Staufen-mediated mRNA decay pathway	bl:RegulatoryPathway
+PW:0000551	altered mRNA decay pathway	bl:RegulatoryPathway
+PW:0000555	glucose utilization pathway	pathway
+PW:0000556	glucose oxidation pathway	pathway
+PW:0000557	glucose storage pathway	pathway
+PW:0000558	glucose conversion pathway	pathway
+PW:0000559	hexosamine biosynthetic pathway	bl:MetabolicPathway
+PW:0000560	facilitative sugar transporter mediated glucose transport pathway	bl:RegulatoryPathway
+PW:0000561	sodium-glucose cotransporter mediated glucose transport pathway	bl:RegulatoryPathway
+PW:0000562	growth hormone signaling pathway	bl:SignalingPathway
+PW:0000563	adiponectin signaling pathway	bl:SignalingPathway
+PW:0000564	androgen signaling pathway	bl:SignalingPathway
+PW:0000565	eicosanoid signaling pathway	bl:SignalingPathway
+PW:0000566	corticosteroid signaling pathway	bl:SignalingPathway
+PW:0000567	sex steroids signaling pathway	bl:SignalingPathway
+PW:0000568	aldosterone signaling pathway	bl:SignalingPathway
+PW:0000569	cortisol signaling pathway	bl:SignalingPathway
+PW:0000570	hexosamine metabolic pathway	bl:MetabolicPathway
+PW:0000571	neurotrophic factor signaling pathway	bl:SignalingPathway
+PW:0000573	pentose phosphate pathway - oxidative phase	pathway
+PW:0000574	pentose phosphate pathway - non-oxidative phase	pathway
+PW:0000576	facilitative sugar transporter mediated sugar transport pathway	bl:RegulatoryPathway
+PW:0000578	scatter factor/hepatocyte growth factor signaling pathway	bl:SignalingPathway
+PW:0000583	orexin/hypocretin signaling pathway	bl:SignalingPathway
+PW:0000584	altered orexin/hypocretin signaling pathway	bl:SignalingPathway
+PW:0000585	orexin/hypocretin signaling pathway via orexin/hypocretin receptor 1	bl:SignalingPathway
+PW:0000586	orexin/hypocretin signaling pathway via orexin/hypocretin receptor 2	bl:SignalingPathway
+PW:0000588	altered adiponectin signaling pathway	bl:SignalingPathway
+PW:0000589	metal homeostasis pathway	bl:RegulatoryPathway
+PW:0000592	iron storage pathway	pathway
+PW:0000594	altered glucose homeostasis pathway	bl:RegulatoryPathway
+PW:0000596	altered insulin signaling pathway	bl:SignalingPathway
+PW:0000597	Wnt signaling, non-canonical pathway	bl:SignalingPathway
+PW:0000598	altered Wnt signaling pathway	bl:SignalingPathway
+PW:0000599	altered Wnt signaling, canonical pathway	bl:SignalingPathway
+PW:0000600	altered Wnt signaling, non-canonical pathway	bl:SignalingPathway
+PW:0000601	altered p38 MAPK signaling pathway	bl:SignalingPathway
+PW:0000602	altered extracellular signal-regulated Raf/Mek/Erk signaling pathway	bl:SignalingPathway
+PW:0000603	Erk5 MAPK signaling pathway	bl:SignalingPathway
+PW:0000604	altered Erk5 MAPK signaling pathway	bl:SignalingPathway
+PW:0000613	altered transforming growth factor-beta signaling pathway	bl:SignalingPathway
+PW:0000614	altered transforming growth factor-beta Smad dependent signaling pathway	bl:SignalingPathway
+PW:0000615	altered bone morphogenetic protein signaling pathway	bl:SignalingPathway
+PW:0000616	altered tumor necrosis factor superfamily mediated signaling pathway	bl:SignalingPathway
+PW:0000617	altered cytokine mediated signaling pathway	bl:SignalingPathway
+PW:0000618	altered tumor necrosis factor mediated signaling pathway	bl:SignalingPathway
+PW:0000619	altered nuclear factor kappa B signaling pathway	bl:SignalingPathway
+PW:0000620	altered signaling pathway involving second messengers	bl:SignalingPathway
+PW:0000621	altered phosphatidylinositol 3-kinase signaling pathway	bl:SignalingPathway
+PW:0000622	altered phosphatidylinositol 3-kinase-Akt signaling pathway	bl:SignalingPathway
+PW:0000623	altered scatter factor/hepatocyte growth factor signaling pathway	bl:SignalingPathway
+PW:0000634	altered Wnt signaling, the planar cell polarity pathway	bl:SignalingPathway
+PW:0000635	altered Wnt/calcium signaling pathway	bl:SignalingPathway
+PW:0000636	protein exocytosis pathway	pathway
+PW:0000637	protein modification pathway in the secretory pathway	bl:RegulatoryPathway
+PW:0000639	insulin responsive facilitative sugar transporter mediated glucose transport pathway	bl:RegulatoryPathway
+PW:0000643	altered glycogen metabolic pathway	bl:MetabolicPathway
+PW:0000644	altered glycogen biosynthetic pathway	bl:MetabolicPathway
+PW:0000645	altered glycogen degradation pathway	bl:MetabolicPathway
+PW:0000646	cell-extracellular matrix signaling pathway	bl:SignalingPathway
+PW:0000647	forkhead signaling pathway	bl:SignalingPathway
+PW:0000648	cell adhesion signaling pathway	bl:SignalingPathway
+PW:0000650	signaling pathway pertinent to development	bl:SignalingPathway
+PW:0000652	phosphatase mediated signaling pathway	bl:SignalingPathway
+PW:0000653	serine/threonine-specific phosphatase mediated signaling pathway	bl:SignalingPathway
+PW:0000654	tyrosine-specific phosphatase mediated signaling pathway	bl:SignalingPathway
+PW:0000655	glycoconjugated protein signaling pathway	bl:SignalingPathway
+PW:0000656	glycoprotein signaling pathway	bl:SignalingPathway
+PW:0000657	proteoglycan signaling pathway	bl:SignalingPathway
+PW:0000658	glypican signaling pathway	bl:SignalingPathway
+PW:0000659	syndecan signaling pathway	bl:SignalingPathway
+PW:0000661	single-strand DNA repair pathway	bl:RegulatoryPathway
+PW:0000663	double-strand DNA repair pathway	bl:RegulatoryPathway
+PW:0000666	altered single-strand DNA repair pathway	bl:RegulatoryPathway
+PW:0000667	altered double-strand DNA repair pathway	bl:RegulatoryPathway
+PW:0000668	altered mismatch repair pathway	bl:RegulatoryPathway
+PW:0000669	altered glycoprotein signaling pathway	bl:SignalingPathway
+PW:0000670	altered glycoconjugated protein signaling pathway	bl:SignalingPathway
+PW:0000671	altered cell adhesion signaling pathway	bl:SignalingPathway
+PW:0000672	altered cell-extracellular matrix signaling pathway	bl:SignalingPathway
+PW:0000673	altered signaling pathway pertinent to development	bl:SignalingPathway
+PW:0000676	glucagon signaling pathway	bl:SignalingPathway
+PW:0000677	altered insulin secretion pathway	bl:RegulatoryPathway
+PW:0000678	altered glucagon secretion pathway	bl:RegulatoryPathway
+PW:0000679	altered glucagon signaling pathway	bl:SignalingPathway
+PW:0000680	altered extrinsic apoptotic pathway	bl:RegulatoryPathway
+PW:0000681	FasL mediated signaling pathway	bl:SignalingPathway
+PW:0000682	Trail mediated signaling pathway	bl:SignalingPathway
+PW:0000683	integrin mediated cell-cell signaling pathway	bl:SignalingPathway
+PW:0000684	integrin mediated cell-extracellular matrix signaling pathway	bl:SignalingPathway
+PW:0000686	altered vasopressin signaling pathway	bl:SignalingPathway
+PW:0000687	altered sugar transport pathway	bl:RegulatoryPathway
+PW:0000688	altered facilitative sugar transporter mediated sugar transport pathway	bl:RegulatoryPathway
+PW:0000689	altered glucose transport pathway	bl:RegulatoryPathway
+PW:0000690	altered facilitative sugar transporter mediated glucose transport pathway	bl:RegulatoryPathway
+PW:0000691	altered sodium-glucose cotransporter mediated glucose transport pathway	bl:RegulatoryPathway
+PW:0000692	altered insulin responsive facilitative sugar transporter mediated glucose transport pathway	bl:RegulatoryPathway
+PW:0000712	vasopressin signaling pathway via receptor type 1	bl:SignalingPathway
+PW:0000713	vasopressin signaling pathway via receptor type 2	bl:SignalingPathway
+PW:0000714	altered vasopressin signaling pathway via receptor type 1	bl:SignalingPathway
+PW:0000715	altered vasopressin signaling pathway via receptor type 2	bl:SignalingPathway
+PW:0000716	transcription factor mediated signaling pathway	bl:SignalingPathway
+PW:0000717	forkhead class O signaling pathway	bl:SignalingPathway
+PW:0000719	altered transcription factor mediated signaling pathway	bl:SignalingPathway
+PW:0000720	altered p53 signaling pathway	bl:RegulatoryPathway
+PW:0000732	thromboxane metabolic pathway	bl:MetabolicPathway
+PW:0000734	cerebroside metabolic pathway	bl:MetabolicPathway
+PW:0000735	altered sphingolipid metabolic pathway	bl:MetabolicPathway
+PW:0000738	fatty acid beta degradation pathway	bl:MetabolicPathway
+PW:0000739	fatty acid alpha degradation pathway	bl:MetabolicPathway
+PW:0000740	unsaturated fatty acid degradation pathway	bl:MetabolicPathway
+PW:0000741	altered ganglioside metabolic pathway	bl:MetabolicPathway
+PW:0000742	altered glycosphingolipid metabolic pathway	bl:MetabolicPathway
+PW:0000743	galactocerebroside metabolic pathway	bl:MetabolicPathway
+PW:0000744	glucocerebroside metabolic pathway	bl:MetabolicPathway
+PW:0000746	altered sphingomyelin metabolic pathway	bl:MetabolicPathway
+PW:0000747	altered galactocerebroside metabolic pathway	bl:MetabolicPathway
+PW:0000748	altered cerebroside metabolic pathway	bl:MetabolicPathway
+PW:0000749	altered glucocerebroside metabolic pathway	bl:MetabolicPathway
+PW:0000750	altered isoprenoid metabolic pathway	bl:MetabolicPathway
+PW:0000751	altered isoprenoid biosynthetic pathway	bl:MetabolicPathway
+PW:0000752	altered cholesterol biosynthetic pathway	bl:MetabolicPathway
+PW:0000775	altered epidermal growth factor/neuregulin signaling pathway	bl:SignalingPathway
+PW:0000776	ketone bodies biosynthetic pathway	bl:MetabolicPathway
+PW:0000777	ketone bodies degradation pathway	bl:MetabolicPathway
+PW:0000779	dehydroepiandrosterone biosynthetic pathway	bl:MetabolicPathway
+PW:0000781	estradiol biosynthetic pathway	bl:MetabolicPathway
+PW:0000782	glucocorticoid signaling pathway	bl:SignalingPathway
+PW:0000783	mineralocorticoid signaling pathway	bl:SignalingPathway
+PW:0000784	altered androgen signaling pathway	bl:SignalingPathway
+PW:0000785	altered lipid hormone signaling pathway	bl:SignalingPathway
+PW:0000786	altered steroid hormone signaling pathway	bl:SignalingPathway
+PW:0000787	altered sex steroids signaling pathway	bl:SignalingPathway
+PW:0000789	glucagon-like peptide-1 signaling pathway	bl:SignalingPathway
+PW:0000790	epinephrine signaling pathway	bl:SignalingPathway
+PW:0000791	norepinephrine signaling pathway	bl:SignalingPathway
+PW:0000792	epinephrine signaling pathway via adrenergic receptor alpha 1	bl:SignalingPathway
+PW:0000793	epinephrine signaling pathway via adrenergic receptor alpha 2	bl:SignalingPathway
+PW:0000794	epinephrine signaling pathway via adrenergic receptor beta	bl:SignalingPathway
+PW:0000795	norepinephrine signaling pathway via adrenergic receptor alpha 1	bl:SignalingPathway
+PW:0000796	norepinephrine signaling pathway via adrenergic receptor alpha 2	bl:SignalingPathway
+PW:0000797	norepinephrine signaling pathway via adrenergic receptor beta	bl:SignalingPathway
+PW:0000798	catecholamine signaling pathway	bl:SignalingPathway
+PW:0000805	altered Trail mediated signaling pathway	bl:SignalingPathway
+PW:0000806	altered FasL mediated signaling pathway	bl:SignalingPathway
+PW:0000807	altered transcription pathway	bl:RegulatoryPathway
+PW:0000808	microRNA pathway	bl:RegulatoryPathway
+PW:0000809	small non-coding RNA pathway	bl:RegulatoryPathway
+PW:0000810	endogenous small interfering RNA pathway	bl:RegulatoryPathway
+PW:0000811	Piwi-interacting RNA pathway	bl:RegulatoryPathway
+PW:0000812	altered small non-coding RNA pathway	bl:RegulatoryPathway
+PW:0000813	altered microRNA pathway	bl:RegulatoryPathway
+PW:0000815	C-type lectin receptor signaling pathway	bl:SignalingPathway
+PW:0000818	signaling pathway pertinent to immunity	bl:SignalingPathway
+PW:0000819	signaling pathway in the innate immune response	bl:SignalingPathway
+PW:0000820	signaling pathway in the adaptive immune response	bl:SignalingPathway
+PW:0000823	humoral immunity pathway	bl:RegulatoryPathway
+PW:0000826	T cell receptor signaling pathway in CD4+ T cells	bl:SignalingPathway
+PW:0000827	T cell receptor signaling pathway in CD8+ T cells	bl:SignalingPathway
+PW:0000828	cytokine mediated signaling pathway	bl:SignalingPathway
+PW:0000829	chemokine mediated signaling pathway	bl:SignalingPathway
+PW:0000830	CXC chemokine mediated signaling pathway	bl:SignalingPathway
+PW:0000831	CC chemokine mediated signaling pathway	bl:SignalingPathway
+PW:0000832	C chemokine mediated signaling pathway	bl:SignalingPathway
+PW:0000833	CX3C chemokine mediated signaling pathway	bl:SignalingPathway
+PW:0000840	protein kinase C (PKC) signaling pathway	bl:SignalingPathway
+PW:0000841	acetylcholine signaling pathway	bl:SignalingPathway
+PW:0000842	acetylcholine signaling pathway via nicotinic acetylcholine receptor	bl:SignalingPathway
+PW:0000843	acetylcholine signaling pathway via muscarinic acetylcholine receptor	bl:SignalingPathway
+PW:0000845	glutamate signaling pathway via NMDA receptor	bl:SignalingPathway
+PW:0000846	glutamate signaling pathway via AMPA receptor	bl:SignalingPathway
+PW:0000847	glutamate signaling pathway via metabotropic glutamate receptor	bl:SignalingPathway
+PW:0000849	glutamate signaling pathway via group I metabotropic glutamate receptor	bl:SignalingPathway
+PW:0000850	glutamate signaling pathway via group II or III glutamate receptor	bl:SignalingPathway
+PW:0000851	dopamine signaling pathway via D1 family of receptors	bl:SignalingPathway
+PW:0000852	dopamine signaling pathway via D2 family of receptors	bl:SignalingPathway
+PW:0000853	histamine signaling pathway, neuronal	bl:SignalingPathway
+PW:0000854	serotonin signaling pathway	bl:SignalingPathway
+PW:0000855	acetylcholine signaling pathway via muscarinic acetylcholine receptors engaging G alphaq protein family	bl:SignalingPathway
+PW:0000856	acetylcholine signaling pathway via muscarinic acetylcholine receptors engaging G alphai protein family	bl:SignalingPathway
+PW:0000857	phase I biotransformation pathway	bl:RegulatoryPathway
+PW:0000858	phase II biotransformation pathway	bl:RegulatoryPathway
+PW:0000859	glucuronidation conjugation pathway	bl:RegulatoryPathway
+PW:0000860	sulfonation conjugation pathway	bl:RegulatoryPathway
+PW:0000861	pyrimidine biosynthetic pathway	bl:MetabolicPathway
+PW:0000862	de novo pyrimidine biosynthetic pathway	bl:MetabolicPathway
+PW:0000864	pyrimidine degradation pathway	bl:MetabolicPathway
+PW:0000865	purine biosynthetic pathway	bl:MetabolicPathway
+PW:0000866	purine degradation pathway	bl:MetabolicPathway
+PW:0000867	de novo purine biosynthetic pathway	bl:MetabolicPathway
+PW:0000876	bacterial polysaccharide metabolic pathway	bl:MetabolicPathway
+PW:0000877	cytosine monophosphate metabolic pathway	bl:MetabolicPathway
+PW:0000879	altered cortisol signaling pathway	bl:SignalingPathway
+PW:0000880	altered corticosteroid signaling pathway	bl:SignalingPathway
+PW:0000881	altered glucocorticoid signaling pathway	bl:SignalingPathway
+PW:0000882	interleukin-1 family mediated signaling pathway	bl:SignalingPathway
+PW:0000883	interleukin-1 signaling pathway	bl:SignalingPathway
+PW:0000884	interleukin-18 signaling pathway	bl:SignalingPathway
+PW:0000886	interleukin-19 signaling pathway	bl:SignalingPathway
+PW:0000887	interleukin-20 signaling pathway	bl:SignalingPathway
+PW:0000888	interleukin-22 signaling pathway	bl:SignalingPathway
+PW:0000889	interleukin-24 signaling pathway	bl:SignalingPathway
+PW:0000890	interleukin-26 signaling pathway	bl:SignalingPathway
+PW:0000891	interleukin-28A signaling pathway	bl:SignalingPathway
+PW:0000892	interleukin-28B signaling pathway	bl:SignalingPathway
+PW:0000893	interleukin-29 signaling pathway	bl:SignalingPathway
+PW:0000894	interferon mediated signaling pathway	bl:SignalingPathway
+PW:0000896	type II interferon signaling pathway	bl:SignalingPathway
+PW:0000897	interleukin-17 family mediated signaling pathway	bl:SignalingPathway
+PW:0000898	interleukin-17E signaling pathway	bl:SignalingPathway
+PW:0000900	interleukin-17F signaling pathway	bl:SignalingPathway
+PW:0000901	altered interleukin mediated signaling pathway	bl:SignalingPathway
+PW:0000902	interleukin-11 signaling pathway	bl:SignalingPathway
+PW:0000904	ciliary neurotrophic factor signaling pathway	bl:SignalingPathway
+PW:0000906	interleukin-2 family mediated signaling pathway	bl:SignalingPathway
+PW:0000907	interleukin-2 signaling pathway	bl:SignalingPathway
+PW:0000908	interleukin-7 signaling pathway	bl:SignalingPathway
+PW:0000909	interleukin-9 signaling pathway	bl:SignalingPathway
+PW:0000910	interleukin-15 signaling pathway	bl:SignalingPathway
+PW:0000911	interleukin-21 signaling pathway	bl:SignalingPathway
+PW:0000912	interleukin-4 signaling pathway	bl:SignalingPathway
+PW:0000913	interleukin-12 family mediated signaling pathway	bl:SignalingPathway
+PW:0000914	interleukin-12 signaling pathway	bl:SignalingPathway
+PW:0000915	interleukin-23 signaling pathway	bl:SignalingPathway
+PW:0000916	interleukin-27 signaling pathway	bl:SignalingPathway
+PW:0000917	interleukin-35 signaling pathway	bl:SignalingPathway
+PW:0000925	pattern recognition receptor mediated signaling pathway	bl:SignalingPathway
+PW:0000926	pro-inflammatory cytokine mediated pathway	pathway
+PW:0000933	tumor necrosis factor member 14 signaling pathway	bl:SignalingPathway
+PW:0000934	tumor necrosis factor member 13 signaling pathway	bl:SignalingPathway
+PW:0000935	tumor necrosis factor member 13b signaling pathway	bl:SignalingPathway
+PW:0000936	chemokine (C-C motif) ligand 1 signaling pathway	bl:SignalingPathway
+PW:0000938	chemokine (C-C motif) ligand 3 signaling pathway	bl:SignalingPathway
+PW:0000939	chemokine (C-C motif) ligand 4 signaling pathway	bl:SignalingPathway
+PW:0000941	chemokine (C-C motif) ligand 6 signaling pathway	bl:SignalingPathway
+PW:0000942	chemokine (C-C motif) ligand 7 signaling pathway	bl:SignalingPathway
+PW:0000943	chemokine (C-C motif) ligand 8 signaling pathway	bl:SignalingPathway
+PW:0000944	chemokine (C-C motif) ligand 11 signaling pathway	bl:SignalingPathway
+PW:0000945	chemokine (C-C motif) ligand 12 signaling pathway	bl:SignalingPathway
+PW:0000946	chemokine (C-C motif) ligand 13 signaling pathway	bl:SignalingPathway
+PW:0000947	chemokine (C-C motif) ligand 17 signaling pathway	bl:SignalingPathway
+PW:0000948	chemokine (C-C motif) ligand 22 signaling pathway	bl:SignalingPathway
+PW:0000949	chemokine (C-C motif) ligand 25 signaling pathway	bl:SignalingPathway
+PW:0000950	chemokine (C-C motif) ligand 24 signaling pathway	bl:SignalingPathway
+PW:0000951	chemokine (C-C motif) ligand 26 signaling pathway	bl:SignalingPathway
+PW:0000952	chemokine (C-C motif) ligand 14 signaling pathway	bl:SignalingPathway
+PW:0000953	chemokine (C-C motif) ligand 15 signaling pathway	bl:SignalingPathway
+PW:0000954	chemokine (C-C motif) ligand 16 signaling pathway	bl:SignalingPathway
+PW:0000955	chemokine (C-C motif) ligand 23 signaling pathway	bl:SignalingPathway
+PW:0000956	chemokine (C-C motif) ligand 27 signaling pathway	bl:SignalingPathway
+PW:0000957	chemokine (C-X-C motif) ligand 1 signaling pathway	bl:SignalingPathway
+PW:0000958	forkhead class A signaling pathway	bl:SignalingPathway
+PW:0000959	lipid signaling pathway	bl:SignalingPathway
+PW:0000962	visual phototransduction pathway	bl:SignalingPathway
+PW:0000963	phosphatidylinositol 3-kinase class I signaling pathway	bl:SignalingPathway
+PW:0000964	altered phosphatidylinositol 3-kinase class I signaling pathway	bl:SignalingPathway
+PW:0000965	phosphatidylinositol 3-kinase class II signaling pathway	bl:SignalingPathway
+PW:0000966	phosphatidylinositol 3-kinase class III signaling pathway	bl:SignalingPathway
+PW:0000967	interleukin-3/interleukin-5/GM-CSF mediated signaling pathway	bl:SignalingPathway
+PW:0000968	interleukin-3 signaling pathway	bl:SignalingPathway
+PW:0000969	interleukin-5 signaling pathway	bl:SignalingPathway
+PW:0000971	CXC chemokine ELR(+) subgroup mediated signaling pathway	bl:SignalingPathway
+PW:0000972	CXC chemokine ELR(-) subgroup mediated signaling pathway	bl:SignalingPathway
+PW:0000973	chemokine (C-X-C motif) ligand 2 signaling pathway	bl:SignalingPathway
+PW:0000974	chemokine (C-X-C motif) ligand 3 signaling pathway	bl:SignalingPathway
+PW:0000975	chemokine (C-X-C motif) ligand 5 signaling pathway	bl:SignalingPathway
+PW:0000976	chemokine (C-X-C motif) ligand 6 signaling pathway	bl:SignalingPathway
+PW:0000977	chemokine (C-X-C motif) ligand 7 signaling pathway	bl:SignalingPathway
+PW:0000978	chemokine (C-X-C motif) ligand 8 signaling pathway	bl:SignalingPathway
+PW:0000979	chemokine (C-X-C motif) ligand 4 signaling pathway	bl:SignalingPathway
+PW:0000980	chemokine (C-X-C motif) ligand 9 signaling pathway	bl:SignalingPathway
+PW:0000981	chemokine (C-X-C motif) ligand 10 signaling pathway	bl:SignalingPathway
+PW:0000982	chemokine (C-X-C motif) ligand 11 signaling pathway	bl:SignalingPathway
+PW:0000984	chemokine (C-X-C motif) ligand 13 signaling pathway	bl:SignalingPathway
+PW:0000985	chemokine (C-X-C motif) ligand 14 signaling pathway	bl:SignalingPathway
+PW:0000986	chemokine (C-X-C motif) ligand 16 signaling pathway	bl:SignalingPathway
+PW:0000987	erythropoietin signaling pathway	bl:SignalingPathway
+PW:0000988	classical cadherin signaling pathway	bl:SignalingPathway
+PW:0000989	desmosomal cadherin signaling pathway	bl:SignalingPathway
+PW:0000990	protocadherin signaling pathway	bl:SignalingPathway
+PW:0000991	atypical cadherin signaling pathway	bl:SignalingPathway
+PW:0000992	E-cadherin signaling pathway	bl:SignalingPathway
+PW:0000993	N-cadherin signaling pathway	bl:SignalingPathway
+PW:0000994	altered classical cadherin signaling pathway	bl:SignalingPathway
+PW:0000995	altered E-cadherin signaling pathway	bl:SignalingPathway
+PW:0000997	nucleoside and nucleotide mediated signaling pathway	bl:SignalingPathway
+PW:0000998	adenosine signaling pathway	bl:SignalingPathway
+PW:0000999	adenosine triphosphate signaling pathway	bl:SignalingPathway
+PW:0001000	nucleotide signaling via the purinergic P2Y receptors.	bl:SignalingPathway
+PW:0001001	adenosine triphosphate signaling via the P2X ligand-gated ion channel	bl:SignalingPathway
+PW:0001005	retinoid cycle metabolic pathway	bl:MetabolicPathway
+PW:0001006	vitamin homeostasis	bl:RegulatoryPathway
+PW:0001007	vitamin A homeostasis	bl:RegulatoryPathway
+PW:0001008	photosignal transduction pathway	bl:SignalingPathway
+PW:0001012	vitamin and vitamin metabolites signaling pathway	bl:SignalingPathway
+PW:0001013	vitamin D signaling pathway	bl:SignalingPathway
+PW:0001014	retinoic acid signaling pathway	bl:SignalingPathway
+PW:0001060	primary bile acid biosynthetic pathway	bl:MetabolicPathway
+PW:0001061	secondary bile acid biosynthetic pathway	bl:MetabolicPathway
+PW:0001062	lacto-series glycosphingolipid metabolic pathway	bl:MetabolicPathway
+PW:0001064	phosphonate and phosphinate metabolic pathway	bl:MetabolicPathway
+PW:0001067	altered ribosome biogenesis pathway	bl:RegulatoryPathway
+PW:0001068	altered translation pathway	bl:RegulatoryPathway
+PW:0001069	gonadotropin-releasing hormone signaling pathway	bl:SignalingPathway
+PW:0001074	hydrophobic amino acid metabolic pathway	bl:MetabolicPathway
+PW:0001075	hydrophilic amino acid metabolic pathway	bl:MetabolicPathway
+PW:0001077	amino acid metabolic pathway (KEGG)	bl:MetabolicPathway
+PW:0001078	cysteine and methionine metabolic pathway	bl:MetabolicPathway
+PW:0001084	serine metabolic pathway	bl:MetabolicPathway
+PW:0001089	serotonin signaling pathway via receptors engaging G alphai protein family	bl:SignalingPathway
+PW:0001090	serotonin signaling pathway via receptors engaging G alphaq protein family	bl:SignalingPathway
+PW:0001091	serotonin signaling pathway via receptors engaging G alphas protein family	bl:SignalingPathway
+PW:0001092	serotonin signaling via receptor family 3	bl:SignalingPathway
+PW:0001094	altered estrogen signaling pathway	bl:SignalingPathway
+PW:0001102	altered hypoxia inducible factor pathway	bl:SignalingPathway
+PW:0001103	acid-base homeostasis pathway	bl:RegulatoryPathway
+PW:0001104	pH sensing signaling pathway	bl:SignalingPathway
+PW:0001105	acid and base sensing signaling pathway	bl:SignalingPathway
+PW:0001106	bicarbonate sensing signaling pathway	bl:SignalingPathway
+PW:0001115	non-visual phototransduction pathway	bl:SignalingPathway
+PW:0001116	vitamin A and metabolites signaling pathway	bl:SignalingPathway
+PW:0001117	retinol mediated signaling pathway	bl:SignalingPathway
+PW:0001118	altered energy metabolic pathway	bl:MetabolicPathway
+PW:0001119	altered citric acid cycle pathway	bl:MetabolicPathway
+PW:0001135	parathyroid hormone signaling pathway	bl:SignalingPathway
+PW:0001140	calcium/calcium-mediated signaling pathway	bl:SignalingPathway
+PW:0001141	calcium signaling pathway via the calcium-sensing receptor	bl:SignalingPathway
+PW:0001146	Fc gamma receptor mediated signaling pathway	bl:RegulatoryPathway
+PW:0001147	eicosanoid signaling pathway via peroxisome proliferator-activated receptor gamma	bl:SignalingPathway
+PW:0001150	Fc receptor mediated signaling pathway	bl:RegulatoryPathway
+PW:0001151	Fc epsilon receptor mediated signaling pathway	bl:RegulatoryPathway
+PW:0001153	caffeine metabolic pathway	bl:MetabolicPathway
+PW:0001155	butirosin and neomycin biosynthetic pathway	bl:MetabolicPathway
+PW:0001158	alpha-linoleic acid metabolic pathway	bl:MetabolicPathway
+PW:0001162	chemical compound signaling pathway	bl:SignalingPathway
+PW:0001165	lipid neurotransmitter metabolic pathway	bl:MetabolicPathway
+PW:0001166	endocannabinoid metabolic pathway	bl:MetabolicPathway
+PW:0001167	parathyroid hormone-like hormone signaling pathway	bl:SignalingPathway
+PW:0001168	altered calcium signaling pathway via the calcium-sensing receptor	bl:SignalingPathway
+PW:0001169	altered calcium/calcium-mediated signaling pathway	bl:SignalingPathway
+PW:0001171	tuberoinfundibular 39 residues peptide signaling pathway	bl:SignalingPathway
+PW:0001172	altered fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001173	intracrine fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001174	paracrine fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001175	endocrine fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001176	altered endocrine fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001177	altered intracrine fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001178	altered paracrine fibroblast growth factor signaling pathway	bl:SignalingPathway
+PW:0001179	fibroblast growth factor 23 signaling pathway	bl:SignalingPathway
+PW:0001180	parathyroid hormone family signaling pathway	bl:SignalingPathway
+PW:0001181	altered fibroblast growth factor 23 signaling pathway	bl:SignalingPathway
+PW:0001182	phosphate homeostasis pathway	bl:RegulatoryPathway
+PW:0001184	altered phosphate homeostasis pathway	bl:RegulatoryPathway
+PW:0001185	calcium/calmodulin dependent kinase 2 signaling pathway	bl:SignalingPathway
+PW:0001186	calcium/calmodulin dependent kinase signaling cascade	bl:SignalingPathway
+PW:0001187	calcium/calmodulin dependent kinase 1 signaling pathway	bl:SignalingPathway
+PW:0001188	calcium/calmodulin dependent kinase 4 signaling pathway	bl:SignalingPathway
+PW:0001189	altered folate metabolic pathway	bl:MetabolicPathway
+PW:0001190	altered hydrophobic amino acid metabolic pathway	bl:MetabolicPathway
+PW:0001191	altered methionine cycle/metabolic pathway	bl:MetabolicPathway
+PW:0001192	altered homocysteine metabolic pathway	bl:MetabolicPathway
+PW:0001193	kinase mediated signaling pathway	bl:SignalingPathway
+PW:0001194	serine/threonine-specific kinase mediated signaling pathway	bl:SignalingPathway
+PW:0001195	tyrosine-specific protein kinase mediated signaling pathway	bl:SignalingPathway
+PW:0001196	altered phosphatase mediated signaling pathway	bl:SignalingPathway
+PW:0001197	altered serine/threonine-specific phosphatase mediated signaling pathway	bl:SignalingPathway
+PW:0001198	altered kinase mediated signaling pathway	bl:SignalingPathway
+PW:0001199	altered serine/threonine-specific kinase mediated signaling pathway	bl:SignalingPathway
+PW:0001201	thyrotropin-releasing hormone signaling pathway	bl:SignalingPathway
+PW:0001207	folate cycle metabolic pathway	pathway
+PW:0001208	altered folate cycle metabolic pathway	bl:MetabolicPathway
+PW:0001209	altered folate mediated one-carbon metabolic pathway	bl:MetabolicPathway
+PW:0001219	hydrogen sulfide mediated signaling pathway	bl:SignalingPathway
+PW:0001220	nitric oxide mediated signaling pathway	bl:SignalingPathway
+PW:0001221	gasotransmitter mediated signaling pathway	bl:SignalingPathway
+PW:0001222	forkhead class C signaling pathway	bl:SignalingPathway
+PW:0001223	forkhead class P signaling pathway	bl:SignalingPathway
+PW:0001232	arylamine metabolic pathway	bl:MetabolicPathway
+PW:0001233	benzo(a)pyrene metabolic pathway	bl:MetabolicPathway
+PW:0001238	indoleamine and related compounds biosynthetic pathway	bl:MetabolicPathway
+PW:0001241	prostacyclin metabolic pathway	bl:MetabolicPathway
+PW:0001251	regulatory pathway pertinent to the brain	bl:RegulatoryPathway
+PW:0001253	fatty acid omega degradation pathway	bl:MetabolicPathway
+PW:0001255	hydrophilic amino acid biosynthetic pathway	bl:MetabolicPathway
+PW:0001256	hydrophobic amino acid biosynthetic pathway	bl:MetabolicPathway
+PW:0001258	hydrophobic amino acid degradation pathway	bl:MetabolicPathway
+PW:0001259	hydrophilic amino acid degradation pathway	bl:MetabolicPathway
+PW:0001262	glutamic acid/glutamate biosynthetic pathway	bl:MetabolicPathway
+PW:0001263	glutamic acid/glutamate degradation pathway	bl:MetabolicPathway
+PW:0001272	RNA polymerase transcription pathway	bl:RegulatoryPathway
+PW:0001273	prokaryotic RNA polymerase transcription pathway	bl:RegulatoryPathway
+PW:0001274	RNA polymerase II transcription initiation pathway	pathway
+PW:0001275	eukaryotic RNA polymerase transcription pathway	bl:RegulatoryPathway
+PW:0001296	prostanoid signaling pathway	bl:SignalingPathway
+PW:0001297	prostaglandin signaling pathway	bl:SignalingPathway
+PW:0001305	steroid hormone metabolic pathway	bl:MetabolicPathway
+PW:0001306	altered steroid biosynthetic pathway	bl:MetabolicPathway
+PW:0001313	transcription pathway via transcription factor mediated signaling	bl:RegulatoryPathway
+PW:0001314	altered transcription pathway via transcription factor mediated signaling	bl:RegulatoryPathway
+PW:0001318	cell cycle pathway, meiotic	bl:RegulatoryPathway
+PW:0001321	trichothecene biosynthetic pathway	bl:MetabolicPathway
+PW:0001324	mitochondrial aminoacyl-tRNA biosynthetic pathway	pathway
+PW:0001325	mitochondrial ribosome biogenesis pathway	pathway
+PW:0001326	altered mitochondrial translation pathway	bl:RegulatoryPathway
+PW:0001327	altered mitochondrial aminoacyl-tRNA biosynthetic pathway	bl:RegulatoryPathway
+PW:0001329	guanosine diphosphate mannose metabolic pathway	bl:MetabolicPathway
+PW:0001330	receptor for advanced glycation end-products signaling pathway	bl:SignalingPathway
+PW:0001331	RNA polymerase II transcription elongation pathway	pathway
+PW:0001334	non-coding RNA pathway	bl:RegulatoryPathway
+PW:0001335	long non-coding RNA pathway	bl:RegulatoryPathway
+PW:0001337	chromatin modification/remodeling pathway	bl:RegulatoryPathway
+PW:0001341	altered chromatin remodeling/modification pathway	bl:RegulatoryPathway
+PW:0001347	altered cholesterol transport pathway	bl:RegulatoryPathway
+PW:0001349	non-metal ion transport pathway	bl:RegulatoryPathway
+PW:0001350	chloride ion transport pathway	bl:RegulatoryPathway
+PW:0001351	altered non-metal ion transport pathway	bl:RegulatoryPathway
+PW:0001352	altered metal ion transport pathway	bl:RegulatoryPathway
+PW:0001353	altered ion transport pathway	bl:RegulatoryPathway
+PW:0001354	altered chloride ion transport pathway	bl:RegulatoryPathway
+PW:0001356	altered peroxisome proliferator-activated receptor signaling pathway	bl:SignalingPathway
+PW:0001359	altered nucleotide excision repair pathway	bl:RegulatoryPathway
+PW:0001361	ataxia telangiectasia-mutated (ATM) signaling pathway	bl:SignalingPathway
+PW:0001362	ATM and Rad3-related (ATR) signaling pathway	bl:SignalingPathway
+PW:0001368	trichothecene metabolic pathway	bl:MetabolicPathway
+PW:0001371	basic helix-loop-helix signaling pathway	bl:SignalingPathway
+PW:0001372	Inhibitor of DNA binding signaling pathway	bl:SignalingPathway
+PW:0001373	altered inhibitor of DNA binding signaling pathway	bl:SignalingPathway
+PW:0001374	altered basic helix-loop-helix signaling pathway	bl:SignalingPathway
+PW:0001375	nicotinamide adenine dinucleotide biosynthesis, the salvage pathway	bl:MetabolicPathway
+PW:0001377	serine pathway of formaldehyde assimilation	bl:MetabolicPathway
+PW:0001378	RuMP pathway of formaldehyde assimilation	bl:MetabolicPathway
+PW:0001379	octane oxidation pathway	bl:MetabolicPathway
+PW:0001380	glutamate degradation pathway I	bl:MetabolicPathway
+PW:0001381	glutamate degradation pathway II	bl:MetabolicPathway
+PW:0001383	glutamate degradation pathway IV	bl:MetabolicPathway
+PW:0001384	glutamate degradation pathway V	bl:MetabolicPathway
+PW:0001386	glutamate degradation pathway VII	bl:MetabolicPathway
+PW:0001387	glutamate degradation pathway VI	bl:MetabolicPathway
+PW:0001388	glutamate degradation pathway VIII	bl:MetabolicPathway
+PW:0001389	glutamate degradation pathway IX	bl:MetabolicPathway
+PW:0001391	starch and cellulose metabolic pathway	bl:MetabolicPathway
+PW:0001393	starch and cellulose biosynthetic pathway	bl:MetabolicPathway
+PW:0001394	terpene and terpenoid biosynthetic pathway	bl:MetabolicPathway
+PW:0001397	terpene and terpenoid metabolic pathway	bl:MetabolicPathway
+PW:0001398	terpene and terpenoid degradation pathway	bl:MetabolicPathway
+PW:0001402	momilactone biosynthetic pathway	bl:MetabolicPathway
+PW:0001404	altered chromatin modification pathway	bl:RegulatoryPathway
+PW:0001405	altered chromatin remodeling pathway	bl:RegulatoryPathway
+PW:0001406	SWI/SNF family mediated chromatin remodeling pathway	bl:RegulatoryPathway
+PW:0001407	ISWI family mediated chromatin remodeling pathway	bl:RegulatoryPathway
+PW:0001408	INO80 family mediated chromatin remodeling pathway	bl:RegulatoryPathway
+PW:0001409	CHD family mediated chromatin remodeling pathway	bl:RegulatoryPathway
+PW:0001410	altered DNA modification pathway	bl:RegulatoryPathway
+PW:0001411	altered histone modification pathway	bl:RegulatoryPathway
+PW:0001434	toxin and toxicant response pathway	bl:RegulatoryPathway
+PW:0001435	nanomaterial response pathway	bl:RegulatoryPathway
+PW:0001436	carbon nanotube response pathway	bl:RegulatoryPathway
+PW:0001437	titanium dioxide nanoparticle response pathway	bl:RegulatoryPathway
+PW:0001438	polycyclic aromatic hydrocarbon metabolic pathway	bl:MetabolicPathway
+PW:0001439	cerium oxide nanoparticle response pathway	bl:RegulatoryPathway
+PW:0001480	kinin signaling pathway	pathway
+PW:0001481	peripheral dopamine signaling pathway	bl:SignalingPathway
+PW:0001482	altered peripheral dopamine signaling pathway	bl:SignalingPathway
+PW:0001483	altered catecholamine signaling pathway	bl:SignalingPathway
+PW:0001484	altered amine and amino acid-derived hormone signaling pathway	bl:SignalingPathway
+PW:0001486	carbon tetrachloride response pathway	bl:RegulatoryPathway
+PW:0001487	ozone response pathway	bl:RegulatoryPathway
+PW:0001492	altered photosignal transduction pathway	bl:SignalingPathway
+PW:0001493	altered vitamin and vitamin metabolites signaling pathway	bl:SignalingPathway
+PW:0001494	altered vitamin A and metabolites signaling pathway	bl:SignalingPathway
+PW:0001495	altered visual phototransduction pathway	bl:SignalingPathway
+PW:0001498	altered retinoid cycle metabolic pathway	bl:MetabolicPathway
+PW:0001499	altered retinoid metabolic pathway	bl:MetabolicPathway
+PW:0001500	altered vitamin homeostasis	bl:RegulatoryPathway
+PW:0001501	altered vitamin A homeostasis	bl:RegulatoryPathway
+PW:0001502	mechanotransduction pathway	bl:SignalingPathway
+PW:0001503	auditory mechanotransduction pathway	bl:SignalingPathway
+PW:0001504	altered auditory mechanotransduction pathway	bl:SignalingPathway
+PW:0001505	altered mechanotransduction pathway	bl:SignalingPathway
+PW:0001509	platinum (Pt) containing drug response pathway	bl:RegulatoryPathway
+PW:0001510	cisplatin response pathway	bl:RegulatoryPathway
+PW:0001511	bisphenol A response pathway	bl:RegulatoryPathway
+PW:0001514	carboplatin response pathway	bl:RegulatoryPathway
+PW:0001516	organophosphate response pathway	bl:RegulatoryPathway
+PW:0001517	altered Hippo signaling pathway	bl:SignalingPathway
+PW:0001519	glucose reduction pathway	pathway
+PW:0001520	polyol pathway	bl:MetabolicPathway
+PW:0001521	sugar alcohol metabolic pathway	bl:MetabolicPathway
+PW:0001523	nicotine response pathway	bl:RegulatoryPathway
+PW:0001526	paracetamol response pathway	bl:RegulatoryPathway
+PW:0001529	prostaglandin E2 signaling pathway	bl:SignalingPathway
+PW:0001530	prostaglandin D2 signaling pathway	bl:SignalingPathway
+PW:0001531	prostaglandin I2 signaling pathway	bl:SignalingPathway
+PW:0001533	thromboxane biosynthetic pathway	bl:MetabolicPathway
+PW:0001534	prostacyclin biosynthetic pathway	bl:MetabolicPathway
+PW:0001535	prostaglandin F2alpha signaling pathway	bl:SignalingPathway
+PW:0001536	sensory system signaling pathway	bl:SignalingPathway
+PW:0001537	altered tyrosine-specific protein kinase mediated signaling pathway	bl:SignalingPathway
+PW:0001538	altered cardiovascular system homeostasis pathway	bl:RegulatoryPathway
+PW:0001539	heterotrimeric G protein mediated signaling pathway	bl:SignalingPathway
+PW:0001540	altered Ras family mediated signaling pathway	bl:SignalingPathway
+PW:0001541	altered G protein mediated signaling pathway	bl:SignalingPathway
+PW:0001542	organismal aging pathway	bl:RegulatoryPathway
+PW:0001543	altered signaling pathway pertinent to immunity	bl:SignalingPathway
+PW:0001544	altered heterotrimeric G protein mediated signaling pathway	bl:SignalingPathway
+PW:0001545	altered stress response pathway	bl:RegulatoryPathway
+PW:0001551	altered cell cycle pathway	bl:RegulatoryPathway
+PW:0001552	altered cell cycle pathway, mitotic	bl:RegulatoryPathway
+PW:0001553	altered G1/S transition pathway	bl:RegulatoryPathway
+PW:0001554	altered SWI/SNF family mediated chromatin remodeling pathway	bl:RegulatoryPathway
+PW:0001555	altered homologous recombination pathway of double-strand break repair	bl:RegulatoryPathway
+PW:0001556	altered non-homologous end joining pathway of double-strand break repair	bl:RegulatoryPathway
+PW:0001558	non-programmed cell death pathway	bl:RegulatoryPathway
+PW:0001559	altered programmed cell death pathway	bl:RegulatoryPathway
+PW:0001562	altered autophagy pathway	bl:RegulatoryPathway
+PW:0001563	altered non-apoptotic cell death pathway	bl:RegulatoryPathway
+PW:0001568	RNA maturation pathway	bl:RegulatoryPathway
+PW:0001570	RNA polymerase I transcription initiation pathway	pathway
+PW:0001571	RNA polymerase I transcription elongation pathway	pathway
+PW:0001574	rRNA maturation pathway	bl:RegulatoryPathway
+PW:0001575	RNA polymerase III transcription initiation pathway	pathway
+PW:0001576	RNA polymerase III transcription elongation pathway	pathway
+PW:0001578	5'-end pre-mRNA capping pathway	bl:RegulatoryPathway
+PW:0001579	3'-end pre-mRNA processing pathway	bl:RegulatoryPathway
+PW:0001580	lncRNA maturation pathway	bl:RegulatoryPathway
+PW:0001581	lncRNA capping pathway	bl:RegulatoryPathway
+PW:0001582	lncRNA polyadenylation pathway	bl:RegulatoryPathway
+PW:0001587	mRNA nuclear export pathway	bl:RegulatoryPathway
+PW:0001588	tRNA nuclear export pathway	bl:RegulatoryPathway
+PW:0001619	rRNA nuclear export pathway	bl:RegulatoryPathway
+PW:0001625	NXF1-NXT1 export pathway	bl:RegulatoryPathway
+PW:0001626	CRM1 export pathway	bl:RegulatoryPathway
+PW:0001641	rRNA decay pathway	bl:RegulatoryPathway
+PW:0001642	tRNA decay pathway	bl:RegulatoryPathway
+PW:0001691	organic chemical homeostasis pathway	bl:RegulatoryPathway
+PW:0001692	inorganic chemical homeostasis pathway	bl:RegulatoryPathway
+PW:0001693	S-adenosylmethionine homeostasis pathway	bl:RegulatoryPathway
+PW:0001756	peptide and protein metabolic process	bl:MetabolicPathway
+PW:0001757	peptide and protein hormone metabolic process	bl:MetabolicPathway
+PW:0001758	insulin biosynthetic pathway	bl:MetabolicPathway
+PW:0001759	preproglucagon processing pathway	bl:MetabolicPathway
+PW:0001760	glucagon biosynthetic pathway	bl:MetabolicPathway
+PW:0001761	glucagon-like peptide-1 biosynthetic pathway	bl:MetabolicPathway
+PW:0001762	glucagon-like peptide-2 biosynthetic pathway	bl:MetabolicPathway
+PW:0001763	oxyntomodulin biosynthetic pathway	bl:MetabolicPathway
+PW:0001764	radical mediated signaling pathway	bl:SignalingPathway
+PW:0001765	superoxide mediated signaling pathway	bl:SignalingPathway
+PW:0001766	radical SAM enzyme mediated RNA processing pathway	bl:RegulatoryPathway
+PW:0001767	radical SAM enzyme mediated metabolic pathway	bl:MetabolicPathway
+PW:0001774	docetaxel response pathway	bl:RegulatoryPathway
+PW:0001802	doxorubicin response pathway	bl:RegulatoryPathway
+PW:0001831	altered iron homeostasis pathway	bl:RegulatoryPathway
+PW:0001832	altered metal homeostasis pathway	bl:RegulatoryPathway
+PW:0001833	altered inorganic chemical homeostasis pathway	bl:RegulatoryPathway
+PW:0001861	procainamide response pathway	bl:RegulatoryPathway
+PW:0001954	eukaryotic DNA replication pathway	bl:RegulatoryPathway
+PW:0001955	bacterial DNA replication pathway	bl:RegulatoryPathway
+PW:0001958	altered mitochondrial autophagy pathway	bl:RegulatoryPathway
+PW:0001959	mitochondria homeostasis pathway	bl:RegulatoryPathway
+PW:0001960	altered mitochondria homeostasis pathway	bl:RegulatoryPathway
+PW:0001961	mitochondria dynamics pathway	pathway
+PW:0001998	mitochondria fission pathway	pathway
+PW:0001999	mitochondria fusion pathway	pathway
+PW:0002061	mitochondria transport pathway	bl:RegulatoryPathway
+PW:0002062	altered mitochondria dynamics pathway	bl:RegulatoryPathway
+PW:0002073	altered mitochondria transport pathway	bl:RegulatoryPathway
+PW:0002074	altered mitochondria fusion pathway	bl:RegulatoryPathway
+PW:0002075	altered mitochondria fission pathway	bl:RegulatoryPathway
+PW:0002119	histamine signaling pathway, immunological	bl:SignalingPathway
+PW:0002120	histamine signaling pathway	bl:SignalingPathway
+PW:0002137	presequence pathway of mitochondrial protein import	bl:RegulatoryPathway
+PW:0002138	carrier pathway of mitochondrial protein import.	bl:RegulatoryPathway
+PW:0002139	intermembrane space assembly pathway of mitochondrial protein import	bl:RegulatoryPathway
+PW:0002140	beta-barrel pathway of mitochondrial protein import	bl:RegulatoryPathway
+PW:0002141	alpha-helical insertion pathway of mitochondrial protein import	bl:RegulatoryPathway
+PW:0002395	cellular trafficking cycle pathway	bl:RegulatoryPathway
+PW:0002399	endosomal sorting pathway	pathway
+PW:0002400	degradative endosome sorting pathway	pathway
+PW:0002401	chaperone mediated autophagy pathway	bl:RegulatoryPathway
+PW:0002402	cellular autophagy pathway	bl:RegulatoryPathway
+PW:0002403	altered cellular autophagy	bl:RegulatoryPathway
+PW:0002404	altered chaperone mediated autophagy	bl:RegulatoryPathway
+PW:0002405	microautophagy pathway	bl:RegulatoryPathway
+PW:0002406	endosome export pathway	pathway
+PW:0002407	retrograde export pathway	pathway
+PW:0002408	recycling export pathway	pathway
+PW:0002409	endosome maturation pathway	pathway
+PW:0002410	altered cellular trafficking cycle pathway	bl:RegulatoryPathway
+PW:0002411	altered endocytosis pathway	bl:RegulatoryPathway
+PW:0002412	altered endosomal sorting pathway	bl:RegulatoryPathway
+PW:0002413	altered endosome export pathway	bl:RegulatoryPathway
+PW:0002415	altered endosomal pathway	bl:RegulatoryPathway
+PW:0002419	altered glycerophospholipid metabolic pathway	bl:MetabolicPathway
+PW:0002420	altered phosphatidylinositol metabolic pathway	bl:MetabolicPathway
+PW:0002421	altered phosphoinositide metabolic pathway	bl:MetabolicPathway
+PW:0002422	synaptic differentiation pathway	bl:RegulatoryPathway
+PW:0002426	altered regulatory pathway pertinent to the brain	bl:RegulatoryPathway
+PW:0002427	altered synaptic vesicle cycle pathway	bl:RegulatoryPathway
+PW:0002428	altered synaptic vesicle endocytosis pathway	bl:RegulatoryPathway
+PW:0002430	retromer-mediated pathway	pathway
+PW:0002431	altered retromer-mediated pathway	bl:RegulatoryPathway
+PW:0002433	altered clathrin-dependent synaptic vesicle endocytosis	bl:RegulatoryPathway
+PW:0002489	melatonin signaling pathway	bl:SignalingPathway
+PW:0002490	glycine signaling pathway	bl:SignalingPathway
+PW:0002517	thyroid-stimulating hormone biosynthetic pathway	bl:MetabolicPathway
+PW:0002518	thyrotropin-releasing hormone biosynthetic pathway	bl:MetabolicPathway
+PW:0002519	somatostatin biosynthetic pathway	bl:MetabolicPathway
+PW:0002520	thyroglobulin processing pathway	bl:MetabolicPathway
+PW:0002521	thyroid hormone biosynthetic pathway	pathway
+PW:0002564	phytanic acid degradation pathway	bl:MetabolicPathway
+PW:0002575	dopamine oxidation pathway	bl:MetabolicPathway
+PW:0002578	altered neurotrophic factor signaling pathway	bl:SignalingPathway
+PW:0002579	altered brain-derived neurotrophic factor signaling pathway	bl:SignalingPathway
+PW:0002581	nicotinamide adenine nucleotide utilization pathway	bl:MetabolicPathway
+PW:0002582	ADP-ribosylation pathway, mono and poly-ribosylation	bl:MetabolicPathway
+PW:0002583	ADP-ribosylation pathway, cyclic ribosylation	bl:MetabolicPathway
+PW:0002584	Sirtuin mediated pathway	bl:MetabolicPathway
+PW:0002592	vitamin K cycle pathway	bl:MetabolicPathway
+PW:0002606	protease mediated signaling pathway	bl:SignalingPathway
+PW:0002607	protease mediated signaling via protease-activated receptor 1	bl:SignalingPathway
+PW:0002608	protease mediated signaling via protease-activated receptor 2	bl:SignalingPathway
+PW:0002609	protease mediated signaling via protease-activated receptor 4	bl:SignalingPathway
+PW:0002610	protease mediated signaling via protease-activated receptor 3	bl:SignalingPathway
+PW:0002611	altered hemostasis pathway	bl:RegulatoryPathway
+PW:0002612	altered natural anticoagulant pathway	bl:RegulatoryPathway
+PW:0002613	altered coagulation cascade pathway	bl:RegulatoryPathway
+PW:0002614	altered protein C anticoagulant pathway	bl:RegulatoryPathway
+PW:0002616	altered fibrinolysis pathway	bl:RegulatoryPathway
+PW:0002618	altered platelet-derived growth factor signaling pathway	bl:SignalingPathway
+PW:0002619	altered oxidative stress response pathway	bl:RegulatoryPathway
+PW:0002620	altered cellular detoxification pathway	bl:RegulatoryPathway
+PW:0002621	altered nuclear factor, erythroid 2 like 2 signaling pathway	bl:RegulatoryPathway
+PW:0002622	endogenous antioxidant pathway	bl:RegulatoryPathway
+PW:0002623	glutathione antioxidant pathway	bl:RegulatoryPathway
+PW:0002624	thioredoxin antioxidant pathway	bl:RegulatoryPathway
+PW:0002625	peroxiredoxin antioxidant pathway	bl:RegulatoryPathway
+PW:0002630	paraquat response pathway	bl:RegulatoryPathway
+PW:0002631	iron uptake pathway	bl:RegulatoryPathway
+PW:0002632	iron efflux pathway	bl:RegulatoryPathway
+PW:0002633	iron utilization pathway	pathway
+PW:0002634	iron-sulfur cluster protein biogenesis pathway	bl:MetabolicPathway
+PW:0002635	mitochondrial iron-sulfur cluster protein biogenesis pathway	bl:MetabolicPathway
+PW:0002636	cytosolic iron-sulfur cluster protein assembly pathway	bl:MetabolicPathway
+PW:0002637	mitochondrial iron-sulfur cluster export pathway	pathway
+PW:0002640	acrolein response pathway	bl:RegulatoryPathway
