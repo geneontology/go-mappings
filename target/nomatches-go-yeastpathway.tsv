@@ -1,0 +1,77 @@
+yeastpathway:type=3%38object=ALL-CHORISMATE-PWY#Pathway778853	superpathway of chorismate	biopax3:Pathway
+yeastpathway:type=3%38object=ARG-PRO-PWY#Pathway779801	arginine degradation (anaerobic)	biopax3:Pathway
+yeastpathway:type=3%38object=BRANCHED-CHAIN-AA-SYN-PWY#Pathway781187	superpathway of leucine, isoleucine, and valine biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=COMPLETE-ARO-PWY#Pathway781735	superpathway of phenylalanine, tyrosine and tryptophan biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=CYSTEINE-SYN2-PWY#Pathway782181	cysteine biosynthesis from homocysteine	biopax3:Pathway
+yeastpathway:type=3%38object=DENOVOPURINE3-PWY#Pathway782266	de novo biosynthesis of purine nucleotides	biopax3:Pathway
+yeastpathway:type=3%38object=ERGOSTEROL-SYN-PWY#Pathway782869	superpathway of ergosterol biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=GLUDEG-I-PWY#Pathway785243	glutamate degradation I	biopax3:Pathway
+yeastpathway:type=3%38object=GLUGLNSYN-PWY#Pathway785354	glutamate biosynthesis from glutamine	biopax3:Pathway
+yeastpathway:type=3%38object=GLUNH3-PWY#Pathway785414	glutamate biosynthesis from ammonia	biopax3:Pathway
+yeastpathway:type=3%38object=GLUT-REDOX2-PWY#Pathway785502	glutathione-glutaredoxin redox reactions	biopax3:Pathway
+yeastpathway:type=3%38object=GLYSYN-ALA-PWY#Pathway786433	glycine biosynthesis from glyoxylate	biopax3:Pathway
+yeastpathway:type=3%38object=GLYSYN-THR-PWY#Pathway786544	glycine biosynthesis from threonine	biopax3:Pathway
+yeastpathway:type=3%38object=HEXPPSYN-PWY#Pathway786726	hexaprenyl diphosphate biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=HOMOCYS-CYS-CONVERT#Pathway787075	homocysteine and cysteine interconversion	biopax3:Pathway
+yeastpathway:type=3%38object=LIPASYN-PWY-1#Pathway787981	phospholipids degradation	biopax3:Pathway
+yeastpathway:type=3%38object=NONOXIPENT-PWY#Pathway788744	non-oxidative branch of the pentose phosphate pathway	biopax3:Pathway
+yeastpathway:type=3%38object=OXIDATIVEPENT-PWY#Pathway788862	oxidative branch of the pentose phosphate pathway	biopax3:Pathway
+yeastpathway:type=3%38object=P4-PWY#Pathway788992	superpathway of threonine and methionine biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PANTOSYN2-PWY#Pathway789262	pantothenate and coenzyme A biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PERIPLASMA-NAD-DEGRADATION#Pathway789845	periplasmic NAD degradation	biopax3:Pathway
+yeastpathway:type=3%38object=PHOS-PWY#Pathway789915	superpathway of phosphatidic acid and phospholipid biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PLPSAL-PWY#Pathway790505	pyridoxal 5'-phosphate salvage pathway	biopax3:Pathway
+yeastpathway:type=3%38object=POLYAMSYN-YEAST-PWY#Pathway790664	superpathway of polyamine biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PROUT-PWY#Pathway790906	proline utilization	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-1801#Pathway791896	formaldehyde oxidation II (glutathione-dependent)	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-2201#Pathway792034	folate transformations	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-2301#Pathway792341	<i>myo</i>-inositol biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-3322#Pathway792432	glutamate degradation IX	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-5080#Pathway792682	very long chain fatty acid biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-5970#Pathway793224	fatty acid biosynthesis (concise)	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-6482#Pathway793622	diphthamide biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY-821#Pathway793968	superpathway of sulfur amino acid biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-1#Pathway794548	salvage pathways of purines and their nucleosides	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-10#Pathway794783	fatty acid biosynthesis, initial steps	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-1109#Pathway795075	p-hydroxybenzoate biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-123#Pathway795397	dolichyl phosphate D-mannose biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-13#Pathway795503	superpathway of glutamate biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-1565#Pathway795747	dolichyl glucosyl phosphate biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-188#Pathway796397	aerobic respiration, electron transport chain	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-2#Pathway796840	superpathway of phospholipid biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-20#Pathway797211	folate polyglutamylation	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-2220#Pathway797651	salvage pathways of adenine, hypoxanthine and their nucleosides	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-224#Pathway797828	nicotinate riboside salvage pathway I	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-230#Pathway797877	serine biosynthesis from glyoxylate	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-236#Pathway797938	nicotinate riboside salvage pathway II	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-261#Pathway798467	superpathway of serine and glycine biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-285#Pathway798687	superpathway of purine biosynthesis and salvage pathways	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-351#Pathway799950	superpathway of methionine salvage pathway	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-3827#Pathway800390	glucose-6-phosphate biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-4106#Pathway801063	nicotinamide riboside salvage pathway I	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-4158#Pathway802267	superpathway of NAD biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-440#Pathway802865	acetoin biosynthesis II	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-592#Pathway803758	glutathione-glutaredoxin system	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-5962#Pathway803835	superpathway of fatty acid biosynthesis, saturated and unsaturated	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-6336#Pathway804378	superpathway of fatty acid biosynthesis, saturated	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-6407#Pathway804927	phosphatidate biosynthesis I (the dihydroxyacetone pathway)	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-6499#Pathway805027	phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-6635#Pathway805192	superpathway of phosphatidate biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-69#Pathway805337	superpathway of heme and siroheme biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-697#Pathway805645	folate interconversions	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-7#Pathway805932	superpathway of threonine biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-70#Pathway806157	chitosan biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-743#Pathway806214	salvage pathways of guanine, xanthine and their nucleosides	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-8#Pathway806324	xylose metabolism	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-94#Pathway806983	superpathway of TCA cycle and glyoxylate cycle	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-954#Pathway807402	superpathway of methionine biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-96#Pathway807630	nicotinamide riboside salvage pathway II	biopax3:Pathway
+yeastpathway:type=3%38object=PWY3O-981#Pathway807703	superpathway of acetoin and butanediol biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=PYRIMID-RNTSYN-PWY#Pathway807981	de novo biosynthesis of pyrimidine ribonucleotides	biopax3:Pathway
+yeastpathway:type=3%38object=SERSYN-PWY#Pathway808507	serine biosynthesis from 3-phosphoglycerate	biopax3:Pathway
+yeastpathway:type=3%38object=THIOREDOX-PWY#Pathway809414	thioredoxin system	biopax3:Pathway
+yeastpathway:type=3%38object=YEAST-DE-NOVO-PYRMID-DNT#Pathway810904	de novo biosynthesis of pyrimidine deoxyribonucleotides	biopax3:Pathway
+yeastpathway:type=3%38object=YEAST-FAO-PWY#Pathway811164	fatty acid oxidation pathway	biopax3:Pathway
+yeastpathway:type=3%38object=YEAST-RIBOSYN-PWY#Pathway811495	riboflavin, FMN and FAD biosynthesis	biopax3:Pathway
+yeastpathway:type=3%38object=YEAST-RNT-SALV#Pathway811706	salvage pathways of pyrimidine ribonucleotides	biopax3:Pathway
+yeastpathway:type=3%38object=YEAST-SALV-PYRMID-DNTP#Pathway811926	salvage pathways of pyrimidine deoxyribonucleotides	biopax3:Pathway
