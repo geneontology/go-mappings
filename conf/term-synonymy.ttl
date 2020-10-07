@@ -20,5 +20,10 @@
   inca:pattern "degradation" ;
   inca:replacement "catabolism"
 ] .
-    
+
+[ inca:pattern " via " ;
+  inca:replacement " to "
+] .
+
+
     
