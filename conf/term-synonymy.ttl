@@ -1,4 +1,5 @@
 @prefix inca: <https://w3id.org/inca/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 
 ## synonymy rules
 ## these are RDF objects with one or more patterns and replacements
@@ -23,6 +24,11 @@
 
 [ inca:pattern " via " ;
   inca:replacement " to "
+] .
+
+[ inca:pattern " activity" ;
+  inca:replacement "" ;
+  rdfs:comment "GO MFs append the string activity onto the end of every reaction"
 ] .
 
 

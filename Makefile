@@ -14,13 +14,13 @@ target/nomatches-go-pw.tsv: target/obomatch-go-pw.sssom.tsv
 YP_PREFIX = http://pathway.yeastgenome.org/YEAST/pathway-biopax?
 
 target/obomatch-go-yeastpathway.sssom.tsv:
-	$(MATCH) $(MATCHARGS) -T -w conf/weights.pro -c conf/assert_metacyc_xrefs.pl -g assert_metacyc  --include_unmatched -p yeastpathway -m yeastpathway=$(YP_PREFIX) --match_prefix GO -d rdf_matcher -i src/ontology/biopax-level3.owl -i conf/term-synonymy.ttl -i downloads/yeastpathways.ttl -i go match > $@.tmp && mv $@.tmp $@
+	$(MATCH) $(MATCHARGS) -T -w conf/weights.pro -c conf/assert_metacyc_xrefs.pl -g assert_xrefs  --include_unmatched -p yeastpathway -m yeastpathway=$(YP_PREFIX) --match_prefix GO -d rdf_matcher -i src/ontology/biopax-level3.owl -i conf/term-synonymy.ttl -i downloads/yeastpathways.ttl -i go match > $@.tmp && mv $@.tmp $@
 
 target/%.crosstab.tsv: target/%.sssom.tsv
 	sssom crosstab -o $@ $<
 
 target/nomatches-go-yeastpathway.tsv: target/obomatch-go-yeastpathway.sssom.tsv
-	grep noMatch $< | egrep '\tbiopax3:Pathway' | cut -f1,2,13 | sort -u > $@.tmp && mv $@.tmp $@
+	grep noMatch $< | egrep '\tbiopax3:(Pathway|BiochemicalReaction)' | cut -f1,2,13 | sort -u > $@.tmp && mv $@.tmp $@
 
 downloads/pathways.dat:
 	curl -L -s http://bioinformatics.ai.sri.com/ptools/flatfile-samples/pathways.dat > $@.tmp && mv $@.tmp $@
