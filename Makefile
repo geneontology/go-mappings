@@ -2,11 +2,13 @@ ONTDIR = src/ontology
 
 MATCH = rdfmatch -X /tmp/rdfmatch_cache/ -A ~/repos/onto-mirror/void.ttl  -i obo_prefixes
 
+all: target/obomatch-go-pw.sssom.tsv target/nomatches-go-pw.tsv target/obomatch-go-yeastpathway.sssom.tsv target/nomatches-go-yeastpathway.tsv 
+
 target/obomatch-go-pw.sssom.tsv:
 	$(MATCH) $(MATCHARGS) -w conf/weights.pro  --include_unmatched -p PW --match_prefix GO -d rdf_matcher -i conf/term-synonymy.ttl -i $(ONTDIR)/pw-bridge.ttl -i pw -i go match > $@.tmp && mv $@.tmp $@
 
-target/nomatches-go-pw.tsv:
-	grep noMatch target/obomatch-go-pw.sssom.tsv | egrep -v '(DiseasePathway|DrugPathway)' | cut -f1,2,13 | sort -u > $@.tmp && mv $@.tmp $@
+target/nomatches-go-pw.tsv: target/obomatch-go-pw.sssom.tsv
+	grep noMatch $< | egrep -v '(DiseasePathway|DrugPathway)' | cut -f1,2,13 | sort -u > $@.tmp && mv $@.tmp $@
 
 #YP_PREFIX = http://pathway.yeastgenome.org/YEAST/pathway-biopax?type=3%38object=
 YP_PREFIX = http://pathway.yeastgenome.org/YEAST/pathway-biopax?
